@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Parikshit 2K18CSUN01121</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button</string>
+    <string name="button_3">Button 3</string>
+    <string name="button_send1">Send</string>
+    <string name="toast_message1">Welcome</string>
+    <string name="toast_message2">Error</string>
+    <string name="text_header">Welcome</string>
+    <string name="lognitude">Lognitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="product_name">product name</string>
+    <string name="product_category">product category</string>
+    <string name="product_id">product id</string>
+    <string name="product_count">product count</string>
+    <string name="submit">Submit</string>
+</resources>
