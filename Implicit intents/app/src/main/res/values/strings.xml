@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Implicit intents</string>
+    <string name="website"/>
+    <string name="button_web">Website</string>
+    <string name="map"/>
+    <string name="button_map">Location</string>
+    <string name="share"/>
+    <string name="button_share">Share</string>
+    <string name="hint_map">Enter Location</string>
+    <string name="hint_share">Share Text</string>
+    <string name="hint_website">Entr Website URL</string>
+</resources>
